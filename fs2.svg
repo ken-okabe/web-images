@@ -1,6 +1,15 @@
-<svg width="100%" height="40" xmlns="http://www.w3.org/2000/svg">
- 
+<svg width="100%" height="40" viewBox="0 0 200 40" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    div {
+      color: white;
+      font: 25px serif;
+      height: 100%;
+    }
+  </style>
   <rect width="100%" height="100%" fill="blue"/>
-
+  <foreignObject x="0" y="0" width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      F#
+    </div>
+  </foreignObject>
 </svg>
-
